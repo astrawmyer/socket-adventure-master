@@ -146,7 +146,7 @@ class Server(object):
         if self.room == 0 and argument == "east":
             self.room = 2
 
-        if self.room == 1 and argument = "east":
+        if self.room == 1 and argument == "east":
             self.room = 0
 
         if self.room == 2 and argument == "west":
